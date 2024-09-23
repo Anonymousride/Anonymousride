@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **JavaScript, Tailwind CSS**
 
-- 📫 How to reach me **manishkumarmk@22122000@gmail.com**
+- 📫 How to reach me **manishkumarmk22122000@gmail.com**
 
 - ⚡ Fun fact **I think I am much like introvert**
 
